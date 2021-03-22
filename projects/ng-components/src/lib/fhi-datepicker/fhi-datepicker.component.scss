@@ -1,3 +1,6 @@
+@import "~bootstrap/scss/mixins/breakpoints";
+@import "~@folkehelseinstituttet/style/scss/variables";
+
 @import "./ngbootstrap/datepicker-day-view";
 @import "./ngbootstrap/datepicker-month";
 @import "./ngbootstrap/datepicker-navigation-select";
