@@ -3,8 +3,9 @@
 
 * :bug: **Bugfix** Add missing peer dependency: @fortawesome/angular-fontawesome
 
-> Mar 12, 2021
+> Mar 26, 2021
 
+* :tada: **Enhancement** Update pull request guidelines in CONTRIBUTING
 * :tada: **Enhancement** Add table of contents to CONTRIBUTING
 * :tada: **Enhancement** Add pull request guidelines to CONTRIBUTING
 
