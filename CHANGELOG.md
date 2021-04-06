@@ -1,4 +1,9 @@
 # Unreleased
+> Apr 6, 2021
+
+* :bug: **Bugfix** Update dependency: @folkehelseinstituttet/style to ^1.4.0
+
+# Unreleased
 > Mar 16, 2021
 
 * :bug: **Bugfix** Add missing peer dependency: @fortawesome/angular-fontawesome
